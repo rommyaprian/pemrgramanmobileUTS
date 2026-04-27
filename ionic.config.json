@@ -1,0 +1,7 @@
+{
+  "name": "lucky-spin-picker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
