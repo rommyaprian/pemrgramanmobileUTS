@@ -97,7 +97,7 @@ const Home: React.FC = () => {
     <IonPage>
 <IonHeader translucent className="fancy-header">
   <IonToolbar className="app-toolbar">
-    <IonTitle className="app-title">Lucky Spin Picker</IonTitle>
+    <IonTitle className="app-title">Usrisan</IonTitle>
   </IonToolbar>
 </IonHeader>
 
@@ -242,7 +242,7 @@ const Home: React.FC = () => {
   <div className="result-modal-card">
     <div className="result-modal-badge">Lucky Result</div>
 
-    <h2 className="result-modal-title">Lucky Spin Picker</h2>
+    <h2 className="result-modal-title">Usrisan</h2>
 
     <p className="result-modal-subtitle">Pilihan yang terpilih</p>
 

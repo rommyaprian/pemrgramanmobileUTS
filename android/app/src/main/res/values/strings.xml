@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">lucky-spin-picker</string>
-    <string name="title_activity_main">lucky-spin-picker</string>
-    <string name="package_name">io.ionic.starter</string>
-    <string name="custom_url_scheme">io.ionic.starter</string>
+    <string name="app_name">Usrisan</string>
+    <string name="title_activity_main">Usrisan</string>
+    <string name="package_name">com.limfei.Usrisan</string>
+    <string name="custom_url_scheme">com.limfei.Usrisan</string>
 </resources>
